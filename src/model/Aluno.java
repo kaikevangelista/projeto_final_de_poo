@@ -1,5 +1,3 @@
-package biblioteca;
-
 public class Aluno extends Usuario {
     private String curso;
     private String matricula;
