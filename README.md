@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://assecom.ufersa.edu.br/wp-content/uploads/sites/24/2014/09/PNG-bras%C3%A3o-Ufersa.png" width="20%" height="auto">
+<img src="https://assecom.ufersa.edu.br/wp-content/uploads/sites/24/2014/09/PNG-bras%C3%A3o-Ufersa.png" width="15%" height="auto">
 
 # Projeto Final de POO
 
@@ -16,7 +16,7 @@
 
 Neste projeto final, cada grupo vai **implementar** em Java o sistema cujo planejamento foi apresentado no seminário, mantendo os mesmos integrantes. As funcionalidades apresentadas no seminário devem ser implementadas e, caso alguma não seja concluída, o grupo deverá justificá-la no relatório.
 
-## SISTEMA DE BIBLIOTECA UNIVERSITÁRIA
+## Sistema de Biblioteca Universitária
 
 O controle manual de livros e empréstimos — fichas e planilhas — gera perdas, atrasos e filas. Exemplares desaparecem sem registro confiável de quem retirou, devoluções vencem sem aviso, multas ficam por conta da memória, ninguém sabe o que está na estante e filas se acumulam. Nesse sentido propomos, portanto, nesse trabalho a implementação, em linguagem de programação Java, de um **sistema de biblioteca universitária** atendendendo aos seguintes requisitos:
 
